@@ -1,0 +1,14 @@
+{
+
+	"manifest_version": 2,
+	"name": "SpectreSyde",
+	"short_name": "Syde",
+	"description": "SpectreSyde Cinema and Playback Experience. Driver 1.0.",
+	
+	"app": {
+		"background": {
+			"scripts": ["bg.js"]
+		}
+	}
+
+}
